@@ -37,7 +37,8 @@
             android:textAllCaps="true"
             android:textColor="#99FFFFFF"
             android:textSize="12sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:visibility="gone" />
 
         <TextView
             android:id="@+id/copy_btn"
